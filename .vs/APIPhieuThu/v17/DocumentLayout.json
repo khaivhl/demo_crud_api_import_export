@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\API\\web api\\APIPhieuThu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64002506-6063-4D5C-8DD3-EFBD54A2FDF1}|APIPhieuThu\\APIPhieuThu.csproj|d:\\c#\\api\\web api\\apiphieuthu\\apiphieuthu\\services\\phieuthuservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64002506-6063-4D5C-8DD3-EFBD54A2FDF1}|APIPhieuThu\\APIPhieuThu.csproj|solutionrelative:apiphieuthu\\services\\phieuthuservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64002506-6063-4D5C-8DD3-EFBD54A2FDF1}|APIPhieuThu\\APIPhieuThu.csproj|d:\\c#\\api\\web api\\apiphieuthu\\apiphieuthu\\entities\\nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64002506-6063-4D5C-8DD3-EFBD54A2FDF1}|APIPhieuThu\\APIPhieuThu.csproj|solutionrelative:apiphieuthu\\entities\\nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64002506-6063-4D5C-8DD3-EFBD54A2FDF1}|APIPhieuThu\\APIPhieuThu.csproj|d:\\c#\\api\\web api\\apiphieuthu\\apiphieuthu\\entities\\chitietphieuthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64002506-6063-4D5C-8DD3-EFBD54A2FDF1}|APIPhieuThu\\APIPhieuThu.csproj|solutionrelative:apiphieuthu\\entities\\chitietphieuthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64002506-6063-4D5C-8DD3-EFBD54A2FDF1}|APIPhieuThu\\APIPhieuThu.csproj|d:\\c#\\api\\web api\\apiphieuthu\\apiphieuthu\\entities\\phieuthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64002506-6063-4D5C-8DD3-EFBD54A2FDF1}|APIPhieuThu\\APIPhieuThu.csproj|solutionrelative:apiphieuthu\\entities\\phieuthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64002506-6063-4D5C-8DD3-EFBD54A2FDF1}|APIPhieuThu\\APIPhieuThu.csproj|d:\\c#\\api\\web api\\apiphieuthu\\apiphieuthu\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64002506-6063-4D5C-8DD3-EFBD54A2FDF1}|APIPhieuThu\\APIPhieuThu.csproj|solutionrelative:apiphieuthu\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64002506-6063-4D5C-8DD3-EFBD54A2FDF1}|APIPhieuThu\\APIPhieuThu.csproj|d:\\c#\\api\\web api\\apiphieuthu\\apiphieuthu\\iservices\\phieuthuiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64002506-6063-4D5C-8DD3-EFBD54A2FDF1}|APIPhieuThu\\APIPhieuThu.csproj|solutionrelative:apiphieuthu\\iservices\\phieuthuiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64002506-6063-4D5C-8DD3-EFBD54A2FDF1}|APIPhieuThu\\APIPhieuThu.csproj|d:\\c#\\api\\web api\\apiphieuthu\\apiphieuthu\\controllers\\phieuthucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64002506-6063-4D5C-8DD3-EFBD54A2FDF1}|APIPhieuThu\\APIPhieuThu.csproj|solutionrelative:apiphieuthu\\controllers\\phieuthucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64002506-6063-4D5C-8DD3-EFBD54A2FDF1}|APIPhieuThu\\APIPhieuThu.csproj|d:\\c#\\api\\web api\\apiphieuthu\\apiphieuthu\\entities\\loainguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64002506-6063-4D5C-8DD3-EFBD54A2FDF1}|APIPhieuThu\\APIPhieuThu.csproj|solutionrelative:apiphieuthu\\entities\\loainguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhieuThuController.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\APIPhieuThu\\APIPhieuThu\\Controllers\\PhieuThuController.cs",
+              "RelativeDocumentMoniker": "APIPhieuThu\\Controllers\\PhieuThuController.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\APIPhieuThu\\APIPhieuThu\\Controllers\\PhieuThuController.cs",
+              "RelativeToolTip": "APIPhieuThu\\Controllers\\PhieuThuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:21:21.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhieuThuServices.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\APIPhieuThu\\APIPhieuThu\\Services\\PhieuThuServices.cs",
+              "RelativeDocumentMoniker": "APIPhieuThu\\Services\\PhieuThuServices.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\APIPhieuThu\\APIPhieuThu\\Services\\PhieuThuServices.cs",
+              "RelativeToolTip": "APIPhieuThu\\Services\\PhieuThuServices.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:21:21.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhieuThuIServices.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\APIPhieuThu\\APIPhieuThu\\IServices\\PhieuThuIServices.cs",
+              "RelativeDocumentMoniker": "APIPhieuThu\\IServices\\PhieuThuIServices.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\APIPhieuThu\\APIPhieuThu\\IServices\\PhieuThuIServices.cs",
+              "RelativeToolTip": "APIPhieuThu\\IServices\\PhieuThuIServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:21:21.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\APIPhieuThu\\APIPhieuThu\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "APIPhieuThu\\Entities\\AppDbContext.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\APIPhieuThu\\APIPhieuThu\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "APIPhieuThu\\Entities\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:21:21.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhieuThu.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\APIPhieuThu\\APIPhieuThu\\Entities\\PhieuThu.cs",
+              "RelativeDocumentMoniker": "APIPhieuThu\\Entities\\PhieuThu.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\APIPhieuThu\\APIPhieuThu\\Entities\\PhieuThu.cs",
+              "RelativeToolTip": "APIPhieuThu\\Entities\\PhieuThu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:21:21.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChiTietPhieuThu.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\APIPhieuThu\\APIPhieuThu\\Entities\\ChiTietPhieuThu.cs",
+              "RelativeDocumentMoniker": "APIPhieuThu\\Entities\\ChiTietPhieuThu.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\APIPhieuThu\\APIPhieuThu\\Entities\\ChiTietPhieuThu.cs",
+              "RelativeToolTip": "APIPhieuThu\\Entities\\ChiTietPhieuThu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:21:21.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NguyenLieu.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\APIPhieuThu\\APIPhieuThu\\Entities\\NguyenLieu.cs",
+              "RelativeDocumentMoniker": "APIPhieuThu\\Entities\\NguyenLieu.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\APIPhieuThu\\APIPhieuThu\\Entities\\NguyenLieu.cs",
+              "RelativeToolTip": "APIPhieuThu\\Entities\\NguyenLieu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:21:21.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoaiNguyenLieu.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\APIPhieuThu\\APIPhieuThu\\Entities\\LoaiNguyenLieu.cs",
+              "RelativeDocumentMoniker": "APIPhieuThu\\Entities\\LoaiNguyenLieu.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\APIPhieuThu\\APIPhieuThu\\Entities\\LoaiNguyenLieu.cs",
+              "RelativeToolTip": "APIPhieuThu\\Entities\\LoaiNguyenLieu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:21:21.751Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
